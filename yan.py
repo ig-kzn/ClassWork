@@ -1,9 +1,5 @@
 def my_superfunction():
-<<<<<<< HEAD
     print('What an awesome print!')
-=======
-    print('Yandexlyceum!')
->>>>>>> 28a2b5b (Changed my_seperfunction to "Yandexlyceum" in demoBranch)
 
 
 def main():

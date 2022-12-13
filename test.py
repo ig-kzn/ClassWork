@@ -1,6 +1,9 @@
 def my_superfunction():
+    print('What an awesome print!')
     print('Yandexlyceum')
 
+def f():
+    print('Hi')
 
 def main():
     print('My first git program')
